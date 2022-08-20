@@ -20,7 +20,8 @@ This is a node.js project on Outlook-Integration as an backend task for RingOver
 - MySQL - As database
 - Sequelize - Object Relational Mapping (ORM)
 - Axios - HTTP requests from node. js
-- Postman - API testing  etc.
+- Postman - API testing 
+- Others
 
 ## Features Screenshots
 - Setup OAuth for outlook.
