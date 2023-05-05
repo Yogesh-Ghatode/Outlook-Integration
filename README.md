@@ -1,6 +1,6 @@
 # Outlook-Integration
 
-This is a node.js project on Outlook-Integration as an backend task for RingOver Intern.
+This is a node.js project on Outlook-Integration
 
 ## Features
   - Setup OAuth for outlook.
